@@ -16,7 +16,7 @@ Fossa AI is not just any chatbot. It's your personal assistant, ready to help yo
 
 <h3 align="center">Installation</h3>
 
-1. Download Latest Release From Here:
+1. Download Latest Release From Here: [Release Page](https://github.com/russkyc/fossa-ai-releases/releases) / [Direct Link](https://github.com/russkyc/fossa-ai-releases/releases/download/v1.0.0-alpha/Fossa.AI.Installer.x64.msi)
 2. Install
 3. Choose Language Model
 4. Chat Away!
