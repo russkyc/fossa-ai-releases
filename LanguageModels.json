@@ -1,0 +1,20 @@
+{
+  "languageModel": [
+    {
+      "name": "WizardLM 7B",
+      "description": "More advanced tasks, more accurate question answering, summarization, translation, and code generation",
+      "parameterCount": "7 Billion",
+      "resourceUsage": "Low Resource Usage",
+      "file": "ggml-wizardlm-7b-q4_0.bin",
+      "downloadSource": "https://huggingface.co/TheBloke/wizardLM-7B-GGML/resolve/main/wizardLM-7B.ggml.q4_0.bin"
+    },
+    {
+      "name": "WizardVicuna 13B",
+      "description": "Question answering, summarization, translation, and code generation",
+      "parameterCount": "13 Billion",
+      "resourceUsage": "High Resource Usage",
+      "file": "ggml-wizardvicuna-13b-q4_0.bin",
+      "downloadSource": "https://huggingface.co/TheBloke/wizard-vicuna-13B-GGML/resolve/previous_llama/wizard-vicuna-13B.ggml.q4_0.bin"
+    }
+  ]
+}
